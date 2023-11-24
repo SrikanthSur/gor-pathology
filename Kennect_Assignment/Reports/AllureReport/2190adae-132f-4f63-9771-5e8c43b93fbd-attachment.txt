@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_loginpage.py:37  *********** Verifing loginPageTitle *********** 
+[32mINFO    [0m root:test_loginpage.py:44  *********** loginPageTitle TestCase Passed ***********

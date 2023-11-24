@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_loginpage.py:55  *********** Verifing login using valid credentials ***********

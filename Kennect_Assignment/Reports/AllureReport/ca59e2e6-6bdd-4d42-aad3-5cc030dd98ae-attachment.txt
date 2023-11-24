@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_loginpage.py:18  *********** Verifing loginPageURL *********** 
+[32mINFO    [0m root:test_loginpage.py:25  *********** loginPageURL TestCase Passed ***********
